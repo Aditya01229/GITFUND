@@ -26,8 +26,8 @@ Decentralized Execution: All voting logic and fund distribution are governed by 
 
 
 Technology Stack:
-Blockchain: Solidity, Ethereum, Thirdweb.
-Frontend: React.js.
-Backend: Node.js.
-Development Tools: Hardhat, Thirdweb SDK.
-Wallet Integration: MetaMask.
+1. Blockchain: Solidity, Ethereum, Thirdweb.
+2. Frontend: React.js.
+3. Backend: Node.js.
+4. Development Tools: Hardhat, Thirdweb SDK.
+5. Wallet Integration: MetaMask.
