@@ -25,14 +25,9 @@ One User, One Vote: Ensures fair voting by restricting each user to one vote per
 Decentralized Execution: All voting logic and fund distribution are governed by smart contracts, guaranteeing unbiased results and preventing human interference.
 
 
-Technology Stack
-
+Technology Stack:
 Blockchain: Solidity, Ethereum, Thirdweb
-
 Frontend: React.js
-
 Backend: Node.js
-
 Development Tools: Hardhat, Thirdweb SDK
-
 Wallet Integration: MetaMask
